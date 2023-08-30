@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(cd ~user_name)"
+echo "$(cd /home/$name)"
